@@ -1,0 +1,18 @@
+{
+    "AUTO_BUY_CARD" : true,
+    "AUTO_UPGRADE_CARD" : true,
+    "COST_UPGRADE_CARD_MAX" : 200000,
+    "AUTO_TASK" : true,
+
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": false,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "USER_AGENT": "",
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 1,
+    "IS_SLEEP": 60,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Vertus"
+}
