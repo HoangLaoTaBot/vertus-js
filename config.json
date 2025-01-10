@@ -1,7 +1,4 @@
 {
-    "AUTO_BUY_CARD" : true,
-    "AUTO_UPGRADE_CARD" : true,
-    "COST_UPGRADE_CARD_MAX" : 200000,
     "AUTO_TASK" : true,
 
     "AUTO_WRITE_ERROR": true,
